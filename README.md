@@ -40,7 +40,7 @@ Awesome 🚀 Below is a **complete, GitHub-ready README package** you can direct
 
 ### Database
 
-* MongoDB / SQLite / PostgreSQL
+*  SQLite 
 
 ### Others
 
@@ -78,7 +78,7 @@ Summarized Output (Real-time Insights)
 
 ---
 
-## 📂 README Structure (Recommended)
+## 📂 README Structure 
 
 ```
 📦 AI-Chat-Platform
